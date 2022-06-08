@@ -1,0 +1,2 @@
+# BMI-Data-Visualization
+A simple yet challenging project, to estimate the BMI based on the Gender, Height &amp; Weight. The complexity arises due the fact that dataset has less samples, &amp; is highly imbalanced. Can you overcome these obstacles &amp; build a good predictive model to classify them?  This data frame contains the following columns:      Gender : Male / Female      Height : Number (cm)      Weight : Number (Kg)      Index :     0 - Extremely Weak     1 - Weak     2 - Normal     3 - Overweight     4 - Obesity     5 - Extreme Obesity
